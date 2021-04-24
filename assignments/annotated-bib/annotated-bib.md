@@ -55,3 +55,18 @@ Treatment design | This experiment *used 3 different treatment types to reduce b
  Results summary | The results of this study found that the large group removal created the most variation in canopy size and frequency across a spatial scale. This treatment arrangement created clumps of trees, with large and well defined gaps in overstory canopy. The single tree removal took gaps that were already present and made them slightly larger, while still leaving large portions of undisturbed forest. The large group removal created for a more heterogeneous structure, suggesting that it is not the amount of basal area that is important, but rather the spatial arrangement of the basal area removed to create favorable conditions for long-leaf pine. However, it was noted that this study did not look at the effects on understory plants that may compete with long-leaf pine.
 Application to project | This experiment is similar in that it is looking to create a patchy mosaic forest structure through means of mechanical treatments. Like my portion of the microsite project, this study only looked at the light level components of forest treatments, as the understory light levels can be indicative of other abiotic conditions
 Questions and dialogue | Another point that I was interested in, is that the large group removal did indeed increase heterogeneity across the board, but according to their graphs it did not result in any gaps less than 40%. Is this unaccounted for because it was part of the forest left undisturbed, therefore not treated and not included in the treatment results? Or was this the arrangement of the forest before treatment (based on the control  treatment graph)? I would imagine that for the sake of structural and compositional complexity, you would still want to keep some of these patches, even if still trying to favor long-leaf pine. 
+
+# Annotated bibliography rubric
+
+You will complete an annotated bibliography entry for a total of ten peer-reviewed research articles or book chapters. Using the assigned reading list below, complete bibliography entries (using the example above as a guide) for each of the eight assigned readings. Please also conduct a literature search using Google Scholar to identify and read and annotate an additional two relevant readings of your choice. You can receive up to 2.5 points for each of the 10 bibliography entry for a total of 25 points.
+
+Annotated bibliography (2.5 pts x 10 = 25)
+
+You will earn 2.5 points for each bibliographic entry that clearly meets the following criteria (0.5 pts each)
+
+1) summarizes the main research question and its importance,
+2) summarizes the overall main approach and methods of the study
+3) clearly links the implications to your own project
+4) includes dialogue or additional questions, and
+5) Includes a proper bibliographic citation
+
