@@ -9,14 +9,14 @@ The goals of this assignment are to
 
 ## Assignment
 
-The instructor will develop a reading list for each student individually in order to:
+The instructor will develop a [reading list](../assignments/reading-list.md) for each student individually in order to:
 1) develop a broad background of the context and importance of your research question,
 2) provide information on technical aspects of your project, and
 3) provide examples of similar studies or approaches in other systems.
 
 You should spend approximately 1-1.5 hours reading and summarizing each reading. As you read, you will create an annotated bibliography and write a separate entry summarizing each of the articles or book chapters assigned for your project. For each reading, provide a 200–400 word critical summary of each reading. For each entry, include the title, author(s), publication year, and journal or book title in the form of a proper bibliographic citation. See the [Scientific Style and Format Citation Quick Guide](https://www.scientificstyleandformat.org/Tools/SSF-Citation-Quick-Guide.html) for details on format for formatting bibliographic citations. The guiding prompts below provide guidance to help you evaluate each article critically. Depending on the focus of each individual reading, the emphasis of your summary will change
 
-Some readings are designed to provide project context, thus in your summary, focus on the importance or background of the problem or question and general findings (See [Evaluation questions focused on research context](#evaluation-questions-focused-on-research-context) below). Other readings are provided for technical guidance. For these, emphasize the study design, methods, or detailed summaries of results (See [Evaluation questions focused on technical guidance](#Evaluation-questions-focused-on-technical-guidance) below).
+Some readings from the [reading list](../assignments/reading-list.md) are designed to provide project context, thus in your summary, focus on the importance or background of the problem or question and general findings (See [Evaluation questions focused on research context](#evaluation-questions-focused-on-research-context) below). Other readings are provided for technical guidance. For these, emphasize the study design, methods, or detailed summaries of results (See [Evaluation questions focused on technical guidance](#Evaluation-questions-focused-on-technical-guidance) below).
 
 The summaries will form the basis for an introduction and discussion of your final research report. In your annotated bibliography include any diagrams, figures, or tables that you feel concisely demonstrate an important or relevant aspect of the reading. Screen captures can be useful for adding supporting material such as relevant figures or tables (Instructions for screen captures: [Mac](https://support.apple.com/en-us/HT201361)/[Win](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b)). 
 
@@ -34,6 +34,7 @@ Consider the following guiding questions while reading. The prompts guide critic
 - What additional sources cited in this reading may you want to explore further?
 
 ### Evaluation questions focused on technical guidance:
+
 - What approach do the authors use to answer the main question?
 - Are there any methods or techniques utilized in this study that may help address your research question?
 - How may the methods used in the study need to be adjusted for use in your research system?
@@ -42,6 +43,7 @@ Consider the following guiding questions while reading. The prompts guide critic
 - What are the overall conclusions of the study? Do you agree or disagree with them?
 - What do you still not know or understand about the reading? What scientific questions remain following this study?
 - What additional sources cited in this reading may you want to explore further?
+
 ## Annotated bibliography entry example
 
 In the short sample annotation entry below, the student includes three paragraphs: a summary of the research question, summary of the results, and a reflection on its applicability to his own research.
