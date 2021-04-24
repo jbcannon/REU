@@ -2,6 +2,20 @@
 
 The articles below are groupd to guide you through multiple topics related to forest landscape ecology. The articles are designed to provide some general background and context, as well as technical detail to aid your in your study design. Articles may be read and summarized in any order. Links to most articles are provided. If a reading is not available, please find it using [Google Scholar](scholar.google.com) and add it to the library.
 
+## Hurricane disturbance pattern
+- Chambers, J. Q., J. I. Fisher, H. Zeng, E. L. Chapman, D. B. Baker, and G. C. Hurtt. 2007. Hurricane Katrina’s carbon footprint. Science 318:2.McNab, W. H., C. H. Greenberg, and E. C. Berg. 2004. Landscape distribution and characteristics of large hurricane-related canopy gaps in a southern Appalachian watershed. Forest Ecology and Management 196:435–447.
+- McNab, W. H., C. H. Greenberg, and E. C. Berg. 2004. Landscape distribution and characteristics of large hurricane-related canopy gaps in a southern Appalachian watershed. Forest Ecology and Management 196:435–447.
+- Myers, R. K., and D. H. Van Lear. 1998. Hurricane-fire interactions in coastal forests of the south: A review and hypothesis. Forest Ecology and Management 103:265–276.
+- Wang, F., and Y. J. Xu. 2009. Hurricane Katrina-induced forest damage in relation to ecological factors at landscape scale. Environmental Monitoring and Assessment 156:491–507.
+- Dahal, D., S. Liu, and J. Oeding. 2014. The carbon cycle and hurricanes in the United States between 1900 and 2011. Scientific Reports 4:5197.
+- Rutledge, B. T., J. B. Cannon, R. K. McIntyre, A. M. Holland, and S. B. Jack. 2021. Tree, stand, and landscape factors contributing to hurricane damage in a coastal plain forest: Post-hurricane assessment in a longleaf pine landscape. Forest Ecology and Management 481:118724.
+- Cannon, J. B., J. Hepinstall-Cymerman, C. M. Godfrey, and C. J. Peterson. 2016. Landscape-scale characteristics of forest tornado damage in mountainous terrain. Landscape Ecology 31:2097–2114.
+- St. Peter, J., C. Anderson, J. Drake, and P. Medley. 2020. Spatially Quantifying Forest Loss at Landscape-scale Following a Major Storm Event. Remote Sensing 12:1138.
+- Koukoulas, S., and G. A. Blackburn. 2004. Quantifying the spatial properties of forest canopy gaps using LiDAR imagery and GIS. International Journal of Remote Sensing 25:3049–3072.
+- Falkowski, M. J., J. S. Evans, S. Martinuzzi, P. E. Gessler, and A. T. Hudak. 2009. Characterizing forest succession with lidar data: An evaluation for the Inland Northwest, USA. Remote Sensing of Environment 113:946–956.
+- Vepakomma, U., B. St-Onge, and D. Kneeshaw. 2008. Spatially explicit characterization of boreal forest gap dynamics using multi-temporal lidar data. Remote Sensing of Environment 112:2326–2340.
+- Kane, V. R., B. N. Bartl-Geller, M. P. North, J. T. Kane, J. M. Lydersen, S. M. A. Jeronimo, B. M. Collins, and L. Monika Moskal. 2019. First-entry wildfires can create opening and tree clump patterns characteristic of resilient forests. Forest Ecology and Management 454:117659.
+
 ## Disturbance interactions 
 
 - Myers, R.K., Van Lear, D.H., 1998. Hurricane–fire interactions in coastal forests of the south: A review and hypothesis. For. Ecol. Manage. 103, 265–276. https://doi.org/10.1016/S0378-1127(97)00223-5
