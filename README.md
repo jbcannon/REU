@@ -63,25 +63,24 @@ Total points 260
 
 # Course schedule
 
-Week Discussion topic Date Assignment (due 24-hours before class-time)
-1 Course overview/Assigned readings 1/22/2019 Review course materials (syllabus, assigned readings)
-2 Reading feedback/Research questions 1/29/2019 Annotated bibliography (half of readings)
-3 Reading feedback/Introductions 2/5/2019 Annotated bibliography (all readings)
-4 Outline feedback/Introductions 2/12/2019 Introduction outline
-5 Introduction feedback/Data analysis 2/19/2019 Developing an Introduction
-6 Data preparation and analysis 2/26/2019
-7 Data preparation and analysis 3/5/2019 All project data collected and processed
-8 Creating figures and tables 3/12/2019 “Lies, damned lies, and statistics” (in-class)
----- HOLIDAY ---- 3/19/2019
-9 Results feedback/Methods 3/26/2019 Analyzing and presenting data
-10 Methods feedback/Results 4/2/2019 Developing a methods section
-11 Results feedback/Discussion 4/9/2019 Developing a results section
-12 Discussion feedback 4/16/2019 Developing a discussion section
-13 TBA or make-up 4/23/2019
-14 Draft feedback/How to develop a poster 4/30/2019 Completing an original research paper (ungraded draft)
-15 Presenting a poster 5/7/2019 Developing a research poster
-Poster presentation (final) 5/14/2019 Poster presentation (Present: 5/14/2019)
-Completing an original research paper (due 5/17/2019)
+Week | Discussion topic | Assignment (due 24-hours before class-time)
+-- | -- | --
+1 | Course overview/Assigned readings | Review course materials (syllabus, [assigned readings](../resources/reading-list.md))
+2 | Reading feedback/Research questions | [Annotated bibliography](assignments/annotated-bib.md) (half of [readings](../resources/reading-list.md))
+3 | Reading feedback/Introductions | Annotated bibliography (all [readings](../resources/reading-list.md))
+4 | Outline feedback/Introductions | [Introduction](assignments/introduction.md) outline
+5 | Introduction feedback/Data analysis | Developing an [Introduction](assignments/introduction.md)
+6 | Data preparation and analysis | 
+7 | Data preparation and analysis | All project data collected and processed
+8 | Creating figures and tables | [“Lies, damned lies, and statistics”](assignments/lies-damned-lies.md)
+9 | Results feedback/Methods | [Analyzing and presenting data](assignments/analysis.md)
+10 | Methods feedback/Results | Developing a [methods](assignments/methods.md) section
+11 | Results feedback/Discussion | Developing a results section
+12 | Discussion feedback | Developing a discussion section
+13 | TBA or make-up |
+14 | Draft feedback/How to develop a poster | Completing an original research paper (ungraded draft)
+15 | Presenting a poster | Developing a research poster
+16 | Poster presentation (final) | Poster presentation<br>Completing an original research paper |
 
 
 # Past projects and students
