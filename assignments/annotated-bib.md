@@ -60,7 +60,7 @@ Questions and dialogue | Another point that I was interested in, is that the lar
 
 # Rubric
 
-You will complete an annotated bibliography entry for a total of ten peer-reviewed research articles or book chapters. Using the assigned reading list below, complete bibliography entries (using the example above as a guide) for each of the eight assigned readings. Please also conduct a literature search using Google Scholar to identify and read and annotate an additional two relevant readings of your choice. You can receive up to 2.5 points for each of the 10 bibliography entry for a total of 25 points.
+You will complete an annotated bibliography entry for a total of ten peer-reviewed research articles or book chapters. Using the [assigned reading](resources/reading-list.md), complete bibliography entries (using the example above as a guide) for each of the eight assigned readings. Please also conduct a literature search using Google Scholar to identify and read and annotate an additional two relevant readings of your choice. You can receive up to 2.5 points for each of the 10 bibliography entry for a total of 25 points.
 
 You will earn 2.5 points for each bibliographic entry that clearly meets the following criteria (0.5 pts each)
 
