@@ -12,7 +12,7 @@ Overall, the introduction should follow an “inverted triangle” structure wit
 
 For details on how to go about writing an introduction please refer to class notes and read the “Introduction” section (pages 5 – 7) of [The Structure, Format, Content, and Style of a Journal-Style Scientific Paper](http://jrtdd.com/wp-content/uploads/2018/05/How-to-Write-a-Paper-in-Scientific-Journal-Style-and-Format.pdf) reading located in the course Resources folder. You may also refer to the example research paper included in the Resources folder. See also the [Scientific Style and Format Citation Quick Guide](https://www.scientificstyleandformat.org/Tools/SSF-Citation-Quick-Guide.html) for details on format for in-text and bibliographic citations.
 
-## Rubric
+# Rubric
 
 Topic | Criteria | Points possible
 --|--|--
