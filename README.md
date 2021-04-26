@@ -21,7 +21,7 @@ In this course, students will
 
 The aim of the course is to give students experience and practice applying the scientific method to ecological concepts, provide students with an introduction to methods for collecting and interpreting ecological data, and prepare students for future research endeavors in graduate professional school or career in natural resources.
 
-# Discussion topics and assignments
+## Discussion topics and assignments
 
 Week | Discussion topic | Assignment (due 24-hours before class-time)
 -- | -- | --
@@ -42,7 +42,7 @@ Week | Discussion topic | Assignment (due 24-hours before class-time)
 15 | Presenting a poster | Developing a research poster
 16 | Poster presentation (final) | Poster presentation<br>Completing an original research paper |
 
-# Hours, credit, and grading
+## Hours, credit, and grading
 
 In accordance with a  3-credit hour course , students will be expected to spend approximately 9 hours each week, totaling 135 total hours for each enrolled semester (15 weeks). For a 2-credit course, the expectation is approximately 6 hours per week, totaling 90 hours. These hours include time spent in individual or group meetings; conducting research, data collection, and analysis; guided reading and writing; and working on reports or presentations. Please keep track of your hours in a spreadsheet. Hours are logged by students and checked periodically by the instructor to ensure goals and objectives can be met in the time
 available. Logging progress is helpful to ensure that projects are completed in an appropriate timeframe.
@@ -83,7 +83,7 @@ Poster presentation (in-class) 20
 Total points 260
 
 
-# Past projects and students
+## Past projects and students
 
 Factors influencing large-scale interactions between wind damage and fire (Geon Ho Kim)
 Forest disturbances from wind damage and fire often have predictable influences on forest
