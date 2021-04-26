@@ -23,7 +23,5 @@ Overall, the methods section should clearly link to the specific research questi
 The methods section should be approximately 250 – 500 words. Include appropriate in-text and bibliographic citations for all scientific literature that is referenced. Check all spelling, grammar, and punctuation for accuracy. Always use past tense to describe your methods (even if you are still working on them!) and use active voice as much as possible (“We measured basal area” rather than “Basal area was measured”). See this article on [active vs. passive voice](https://www.quickanddirtytips.com/education/grammar/active-voice-versus-passive-voice).
 
 For details on how to go about writing a methods section, refer to class notes. Please read the “Materials
-and Methods” section (pages 7 – 10) of “The Structure, Format, Content, and Style of a Journal-Style
-Scientific Paper” reading located in the course Resources folder. You may also refer to the example
-research paper included in the Resources folder. Refer to the handout “Scientific Style and Format
-Citation Quick Guide” in the Resources folder for details on format for in-text and bibliographic citations.
+and Methods” section (pages 7 – 10) of [The Structure, Format, Content, and Style of a Journal-Style
+Scientific Paper](http://jrtdd.com/wp-content/uploads/2018/05/How-to-Write-a-Paper-in-Scientific-Journal-Style-and-Format.pdf). You may also refer to the example research paper included in the Resources folder. Review the [Scientific Style and Format Citation Quick Guide](https://www.scientificstyleandformat.org/Tools/SSF-Citation-Quick-Guide.html) for details on format for in-text and bibliographic citations.
