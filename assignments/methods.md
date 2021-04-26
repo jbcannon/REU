@@ -25,3 +25,18 @@ The methods section should be approximately 250 – 500 words. Include appropria
 For details on how to go about writing a methods section, refer to class notes. Please read the “Materials
 and Methods” section (pages 7 – 10) of [The Structure, Format, Content, and Style of a Journal-Style
 Scientific Paper](http://jrtdd.com/wp-content/uploads/2018/05/How-to-Write-a-Paper-in-Scientific-Journal-Style-and-Format.pdf). You may also refer to the [example research paper](../resources/example_final_report.pdf) included in the Resources folder. Review the [Scientific Style and Format Citation Quick Guide](https://www.scientificstyleandformat.org/Tools/SSF-Citation-Quick-Guide.html) for details on format for in-text and bibliographic citations.
+
+# Rubric
+
+Topic | Criteria | Points possible
+-- | -- | --
+Content | Summarizes overall trends | 2
+&nbsp; | Individual results reported and digested | 4
+&nbsp; | Statistical results reported properly (include effect size, statistic, *p*-value, *r*<sup>2</sup>, etc.) | 2
+Figures and tables | Tables and figures display important data | 2
+&nbsp; | Figures and tables with labeled axis, units, error bars (if necessary), and legend | 4
+&nbsp; | Figures and tables with captions that briefly explain the data shown | 2
+Writing cohesiveness | Written in past tense and active voice | 2
+&nbsp; | Use of parallel structures to link questions, methods, and findings | 1
+&nbsp; | Correct grammar, spelling, and punctuation | 1
+Total | &nbsp; | 20
