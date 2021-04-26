@@ -21,6 +21,27 @@ In this course, students will
 
 The aim of the course is to give students experience and practice applying the scientific method to ecological concepts, provide students with an introduction to methods for collecting and interpreting ecological data, and prepare students for future research endeavors in graduate professional school or career in natural resources.
 
+# Discussion topics and assignments
+
+Week | Discussion topic | Assignment (due 24-hours before class-time)
+-- | -- | --
+1 | Course overview/Assigned readings | Review course materials (syllabus, [assigned readings](../resources/reading-list.md))
+2 | Reading feedback/Research questions | [Annotated bibliography](assignments/annotated-bib.md) (half of [readings](../resources/reading-list.md))
+3 | Reading feedback/Introductions | Annotated bibliography (all [readings](../resources/reading-list.md))
+4 | Outline feedback/Introductions | [Introduction](assignments/introduction.md) outline
+5 | Introduction feedback/Data analysis | Developing an [Introduction](assignments/introduction.md)
+6 | Data preparation and analysis | 
+7 | Data preparation and analysis | All project data collected and processed
+8 | Creating figures and tables | [“Lies, damned lies, and statistics”](assignments/lies-damned-lies.md)
+9 | Results feedback/Methods | [Analyzing and presenting data](assignments/analysis.md)
+10 | Methods feedback/Results | Developing a [methods](assignments/methods.md) section
+11 | Results feedback/Discussion | Developing a results section
+12 | Discussion feedback | Developing a discussion section
+13 | TBA or make-up |
+14 | Draft feedback/How to develop a poster | Completing an original research paper (ungraded draft)
+15 | Presenting a poster | Developing a research poster
+16 | Poster presentation (final) | Poster presentation<br>Completing an original research paper |
+
 # Hours, credit, and grading
 
 In accordance with a  3-credit hour course , students will be expected to spend approximately 9 hours each week, totaling 135 total hours for each enrolled semester (15 weeks). For a 2-credit course, the expectation is approximately 6 hours per week, totaling 90 hours. These hours include time spent in individual or group meetings; conducting research, data collection, and analysis; guided reading and writing; and working on reports or presentations. Please keep track of your hours in a spreadsheet. Hours are logged by students and checked periodically by the instructor to ensure goals and objectives can be met in the time
@@ -60,27 +81,6 @@ Completing an original research paper 60
 Developing a research poster 50
 Poster presentation (in-class) 20
 Total points 260
-
-# Course schedule
-
-Week | Discussion topic | Assignment (due 24-hours before class-time)
--- | -- | --
-1 | Course overview/Assigned readings | Review course materials (syllabus, [assigned readings](../resources/reading-list.md))
-2 | Reading feedback/Research questions | [Annotated bibliography](assignments/annotated-bib.md) (half of [readings](../resources/reading-list.md))
-3 | Reading feedback/Introductions | Annotated bibliography (all [readings](../resources/reading-list.md))
-4 | Outline feedback/Introductions | [Introduction](assignments/introduction.md) outline
-5 | Introduction feedback/Data analysis | Developing an [Introduction](assignments/introduction.md)
-6 | Data preparation and analysis | 
-7 | Data preparation and analysis | All project data collected and processed
-8 | Creating figures and tables | [“Lies, damned lies, and statistics”](assignments/lies-damned-lies.md)
-9 | Results feedback/Methods | [Analyzing and presenting data](assignments/analysis.md)
-10 | Methods feedback/Results | Developing a [methods](assignments/methods.md) section
-11 | Results feedback/Discussion | Developing a results section
-12 | Discussion feedback | Developing a discussion section
-13 | TBA or make-up |
-14 | Draft feedback/How to develop a poster | Completing an original research paper (ungraded draft)
-15 | Presenting a poster | Developing a research poster
-16 | Poster presentation (final) | Poster presentation<br>Completing an original research paper |
 
 
 # Past projects and students
