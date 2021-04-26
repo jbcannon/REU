@@ -22,3 +22,19 @@ For details on how to go about writing a discussion section, refer to class note
 
 # Rubric
 
+Topic | Criteria | Points possible
+-- | -- | --
+Content | Clear conclusions drawn from data | 2
+&nbsp; | Discuss whether results support or refute hypothesis | 1.5
+&nbsp; | Explain unusual and unexpected findings | 1.5
+&nbsp; | Relate findings from your study to similar studies | 3
+&nbsp; | Discuss caveats, unknowns, and avenues for future research | 2
+&nbsp; | Concludes with "big picture" implications (link findings back to introductory material) | 2
+Writing cohesiveness | Writing organized around a central thesis, with clear topic sentences and transitions | 2
+&nbsp; | Caveats and unknowns discussed without undermining findings | 0.5
+&nbsp; | Smoothly expand narrow results to broader field of research (hourglass structure) | 2
+&nbsp; | Includes minimum of 3 peer-reviewed articles | 1.5
+&nbsp; | Correct grammar, spelling, and punctuation | 1
+&nbsp; | References incorporated smoothly | 1
+Total | &nbsp; | 20
+
