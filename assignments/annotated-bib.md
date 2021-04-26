@@ -3,9 +3,9 @@
 ## Learning goals
 
 The goals of this assignment are to
-1) develop contextual and technical knowledge for completing independent research through guided reading,
+1) develop context and technical knowledge for completing independent research through guided reading,
 2) develop skills for critical reading and summarization of scientific literature, and
-3) summarize scientific literature for use in final research report proposals and presentations
+3) summarize scientific literature for final research report proposals and presentations
 
 ## Assignment
 
@@ -18,7 +18,7 @@ You should spend approximately 1-1.5 hours reading and summarizing each reading.
 
 Some readings from the [reading list](../resources/reading-list.md) are designed to provide project context, thus in your summary, focus on the importance or background of the problem or question and general findings (See [Evaluation questions focused on research context](#evaluation-questions-focused-on-research-context) below). Other readings are provided for technical guidance. For these, emphasize the study design, methods, or detailed summaries of results (See [Evaluation questions focused on technical guidance](#Evaluation-questions-focused-on-technical-guidance) below).
 
-The summaries will form the basis for an introduction and discussion of your final research report. In your annotated bibliography include any diagrams, figures, or tables that you feel concisely demonstrate an important or relevant aspect of the reading. Screen captures can be useful for adding supporting material such as relevant figures or tables (Instructions for screen captures: [Mac](https://support.apple.com/en-us/HT201361)/[Win](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b)). 
+The summaries will form the basis for an [introduction](introduction.md) and discussion of your final research report. In your annotated bibliography include any diagrams, figures, or tables that you feel concisely demonstrate an important or relevant aspect of the reading. Screen captures can be useful for adding supporting material such as relevant figures or tables (Instructions for screen captures: [Mac](https://support.apple.com/en-us/HT201361)/[Win](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b)). 
 
 ## Writing prompts
 
@@ -28,7 +28,7 @@ Consider the following guiding questions while reading. The prompts guide critic
 
 - Why did the authors conduct this study? What is the overall problem or question being addressed? What are the complexities of the issue? For whom is the topic important and why? What work has been done before to answer this question?
 - Why is this reading included and how does it relate to your research question?
-- How might this question be relevant for ponderosa pine forests of Colorado?
+- How might this question be relevant for longleaf pine forests or other forests of the southeastern US?
 - What is already known about the topic under investigation, and what remains to be understood?
 - What are the overall and specific findings of this study? Would you expect similar or different results applied to your study system, and why?
 - What additional sources cited in this reading may you want to explore further?
