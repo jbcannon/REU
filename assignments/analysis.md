@@ -13,10 +13,10 @@ Look over your introduction, and select a research question for which you have p
   - Make a general statement describing the overall results. Where appropriate, use simple
 calculations (means, median, percentages, differences, etc.) to emphasize the differences in
 your response variable across experimental treatments or environmental gradient.
-  - Report the statistics appropriate to the test you chose. The values to report include are specific test statistic you chose (e.g., t-value, F-value, slope, etc.), the P-value for your hypothesis test, and the appropriate degrees of freedom.
+  - Report the statistics appropriate to the test you chose. The values to report include are specific test statistic you chose (e.g., *t*-value, *F*-value, slope, etc.), the *P*-value for your hypothesis test, and the appropriate degrees of freedom.
   - Write a short (1–2 sentences) interpretation of your results and how they relate to the research question asked.
 - Using R or Excel, create a graph that demonstrates the results of your analysis. Be sure to include axis labels with units, a legend, a descriptive caption, and error bars or best fit line, where appropriate.
-  - These guides can assist you with making [scatterplots](http://www.sthda.com/english/wiki/scatter-plots-r-base-graphs) and [bargraphs](http://www.sthda.com/english/wiki/bar-plots-r-base-graphs) using `base` R.
+  - These guides can assist you with making [scatterplots](http://www.sthda.com/english/wiki/scatter-plots-r-base-graphs) and [bar graphs](http://www.sthda.com/english/wiki/bar-plots-r-base-graphs) using `base` R.
 
 # Rubric
 
