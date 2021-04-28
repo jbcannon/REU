@@ -2,7 +2,11 @@
 
 ## Learning goals
 
-This assignment is designed to allow you to demonstrate your knowledge in the following areas: (1) organizing a persuasive research rationale, (2) formulating and describing a quantifiable research question and hypothesis, (3) and effectively use citations of scientific literature.
+This assignment is designed to allow you to demonstrate your knowledge in the following areas:
+
+1) organizing a persuasive research rationale,
+2) formulating and describing a quantifiable research question and hypothesis,
+3) and effectively use citations of scientific literature.
 
 ## Assignment
 
