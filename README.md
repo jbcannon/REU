@@ -25,9 +25,9 @@ The aim of the course is to give students experience and practice applying the s
 
 Week | Discussion topic | Assignment (due 24-hours before class-time)
 -- | -- | --
-1 | Course overview/Assigned readings | Review course materials (syllabus, [assigned readings](../resources/reading-list.md))
-2 | Reading feedback/Research questions | [Annotated bibliography](assignments/annotated-bib.md) (half of [readings](../resources/reading-list.md))
-3 | Reading feedback/Introductions | Annotated bibliography (all [readings](../resources/reading-list.md))
+1 | Course overview/Assigned readings | Review course materials (syllabus, [assigned readings](resources/reading-list.md))
+2 | Reading feedback/Research questions | [Annotated bibliography](assignments/annotated-bib.md) (half of [readings](resources/reading-list.md))
+3 | Reading feedback/Introductions | Annotated bibliography (all [readings](resources/reading-list.md))
 4 | Outline feedback/Introductions | [Introduction](assignments/introduction.md) outline
 5 | Introduction feedback/Data analysis | Developing an [Introduction](assignments/introduction.md)
 6 | Data preparation and analysis | 
