@@ -39,8 +39,8 @@ Week | Discussion topic | Assignment (due 24-hours before class-time)
 12 | Discussion feedback | Developing a [discussion](assignments/discussion.md) section
 13 | TBA or make-up |
 14 | Draft feedback/How to develop a poster | Completing an original [research paper](assignments/research-paper.md) (ungraded draft)
-15 | Presenting a poster | Developing a [research poster](research-poster.md)
-16 | Poster presentation (final) | [Poster presentation](assignments/poster-presentation.md)<br>Completing an [original research paper](research-paper.md)
+15 | Presenting a poster | Developing a [research poster](assignments/research-poster.md)
+16 | Poster presentation (final) | [Poster presentation](assignments/poster-presentation.md)<br>Completing an [original research paper](assignments/research-paper.md)
 
 ## Hours, credit, and grading
 
