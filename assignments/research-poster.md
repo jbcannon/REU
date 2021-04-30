@@ -9,14 +9,14 @@ This assignment is designed to allow you to demonstrate your knowledge in the fo
 
 ## Assignment
 
-For this assignment, you will develop and deliver a poster presentation on an experiment related to your area of research. The poster will be in the format of a poster presentation delivered at a scientific conference. For the poster you will use real data related to your independent research. For the poster, you should analyze the data set, create several figures to explain the results and present some material for a brief introduction and discussion. The experiment you write about must have a degree of complexity. That is, it must require a statistical analysis more advance than a t-test or single factor ANOVA. There are ample examples of research posters of varying quality in the course Resources folder and throughout the hallways of the campus buildings. We will discuss further in class the elements of a good poster. After finishing your poster, we will host a poster session during the final exam where each student will display their poster and present to the class and instructor.
+For this assignment, you will develop and deliver a poster presentation on an experiment related to your area of research. The poster will be in the format of a poster presentation delivered at a scientific conference. For the poster you will use real data related to your independent research. For the poster, you should analyze the data set, create several figures to explain the results and present some material for a brief introduction and discussion. The experiment you write about must have a degree of complexity. That is, it must require a statistical analysis more advanced than a *t*-test or single factor ANOVA. There are ample examples of research posters of varying quality in the  throughout the hallways of the campus buildings. We will discuss further in class the elements of a good poster. After finishing your poster, we will host a poster session during the final exam where each student will display their poster and present to the class and instructor.
 
 ### Audience
 You will construct the poster for an audience of other scientists in your field attending a research conference. You can assume the audience has a general undergraduate education in natural resources, ecology, or biology, but you should define any terminology specific to your research.
 
 ### Detailed description and format
 
-The poster should be 36” x 48”, created in PowerPoint or other software, and include figures, tables, and at least 3 references. The poster should be in the format of a research poster at a scientific conference and should include the following sections.
+The poster should be 36” x 48”, created in PowerPoint or other software, and include figures, tables, and at least 4 references. The poster should be in the format of a research poster at a scientific conference and should include the following sections.
 
 #### Title
 
@@ -32,7 +32,7 @@ The introduction section of your poster should be concise, and should take up ap
 
 #### Methods
 
-The methods section of the poster should up approximately 20% of the poster. Again I recommend bulleted points to organize the methods that touch on the following points.
+The methods section of the poster should up approximately 20% of the poster. I recommend bulleted points to organize the methods that touch on the following points.
 
 - Describe the experimental design you used to test the hypothesis giving the details of your particular experimental design including treatment levels, replication, and any blocking or nesting, etc.
 - Create a figure or diagram of your experimental setup to help concisely describe your experimental design.
@@ -44,8 +44,7 @@ The methods section of the poster should up approximately 20% of the poster. Aga
 This is the focus of most research posters, and it should take up approximately 30% of the poster space. Figures with captions and a few bulleted summaries are usually adequate for this section. Provide one or more figures that illustrate your data (e.g., bar graph or scatterplot) including all appropriate elements as discussed in class.
 
 - Explain any trends in your data such as comparing treatment means or a description of the correlations you found (strong/weak, positive/negative, means, differences, etc.).
-- For each statistical analysis you do, report statistical information (e.g., test statistic, degrees of
-freedom, P-value).
+- For each statistical analysis you do, report statistical information (e.g., test statistic, degrees of freedom, *P*-value).
 
 #### Discussion
 
@@ -54,11 +53,11 @@ studies and discuss the implications of the findings.
 
 #### References
 
-In a small area in the corner of your poster (approximately 5% of the area), please use consistent literature citations according to the conventions of your discipline, or refer to the Annotated Bibliography assignment for examples. Include at least 4 appropriate peer-reviewed references.
+In a small area in the corner of your poster (approximately 5% of the area), please use consistent literature citations according to the conventions of your discipline, or refer to the [Annotated Bibliography](annotated-bib.md) assignment for examples. Include at least 4 appropriate peer-reviewed references.
 
 ### Style and Organization
 
-Please see example posters in the Resources folder for previous examples of research posters. There are also examples of research posters of varying quality throughout the hallways of the campus buildings. Be sure your poster does not include large blocks of text (besides the abstract), and that all important information is easy to find. The poster should balance the use of photos, figures, and text, and guide the reader with proper headings. Text should be readable when printed (recommended font size of approximately 40 for body text using for 36” x 48” posters). Colors, fonts, and design elements (boxes, etc.) are recommend to help organize information, but keep their use minimal and professional.
+Be sure your poster does not include large blocks of text (besides the abstract), and that all important information is easy to find. The poster should balance the use of photos, figures, and text, and guide the reader with proper headings. Text should be readable when printed (recommended font size of approximately 40 for body text using for 36” x 48” posters). Colors, fonts, and design elements (boxes, etc.) are recommend to help organize information, but keep their use minimal and professional.
 
 # Rubric
 
