@@ -18,8 +18,7 @@ part of your score.
 The intended audience for your poster presentation is an undergraduate research conference. You can assume that the audience has a general undergraduate education in natural resources, ecology, or
 biology, but you should define any terminology specific to your research. Note that after the course, you may present this research at an undergraduate or other research conference.
 
-## Tips for poster presentation<sup>[1](https://www.scientifica.uk.com/neurowire/tips-for-presenting-your-scientificposter-
-at-a-conference)
+## Tips for poster presentation<sup>[1](https://www.scientifica.uk.com/neurowire/tips-for-presenting-your-scientificposter-at-a-conference)</sup>
 
 - Your poster presentation should include the necessary background to introduce your topic to a broad audience who may not know much about your topic and should lead directly to the research question you addressed.
 - Be sure to read your audience for feedback to ensure that points are understood clearly before moving forward.
