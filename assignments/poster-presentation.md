@@ -40,7 +40,7 @@ You will be graded based on the following criteria for a total of 20 points.
 
 # Student peer-evaluation rubric
 
-Click here for a printable version
+Click here for a printable [peer-evaluation rubric](../resources/poster-presentation-rubric-printable.pdf)
 
 Criteria | Possible | Earned | Comments
 -- | -- | -- | --
