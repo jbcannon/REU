@@ -37,3 +37,16 @@ You will be graded based on the following criteria for a total of 20 points.
 - Professional attitude and appropriate dress (1 pt)
 - Fields questions related to research adequately (3 pts)
 - Average score from peer-evaluations scaled to maximum of 4 points (4 pts)
+
+# Student peer-evaluation rubric
+
+Click here for a printable version
+
+Criteria | Possible | Earned | Comments
+-- | -- | -- | --
+Introduction: Clear description of introduction appropriate for a general audience. Introduction should clearly lead from background to research questions |4 | &nbsp; |
+Methods: Clear description of methods, including justification for why they are appropriate |4 | &nbsp; |
+Results and Discussion: Clear description of   results which are related back to original <br> research questions and implications | 4 | &nbsp;| &nbsp;
+Professional attitude and dress | 1| &nbsp;
+Fielded questions adequately |3| &nbsp; | &nbsp;
+Total | 16 | &nbsp; | &nbsp;
