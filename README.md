@@ -1,5 +1,3 @@
-**still need to format and update this page, but content is here**
-
 # Independent Research in Restoration Ecology
 
 ## Instructor/Developer
