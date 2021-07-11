@@ -13,7 +13,6 @@ The articles below are groupd to guide you through multiple topics related to fo
 - Franklin, J. F., R. J. Mitchell, and B. J. Palik. 2007. Natural Disturbance and Stand Development Principles for Ecological Forestry, Gen. Tech. Rep. NRS-19:44.
 
 ## General wind disturbance
-
 - Ulanova, N.G., 2000. The effects of windthrow on forests at different spatial scales: A review. For. Ecol. Manage. 135, 155–167. https://doi.org/10.1016/S0378-1127(00)00307-8
 - Everham, E.M., Brokaw, N.V.L., 1996. Forest damage and recovery from catastrophic wind. Bot. Rev. 62, 113–185. https://doi.org/10.1007/BF02857920
 - Beatty, S. W. 1984. Influence of microtopography and canopy species on spatial patterns of forest understory plants. Ecology 65:1406–1419.
@@ -29,20 +28,28 @@ The articles below are groupd to guide you through multiple topics related to fo
 - Canham, C.D., Papaik, M.J., Latty, E.F., 2001. Interspecific variation in susceptibility to windthrow as a function of tree size and storm severity for northern temperate tree species. Can. J. For. Res. 31, 1–10. https://doi.org/10.1139/x00-124
 - Dale, V.H., Joyce, L.A., McNulty, S., Neilson, R.P., Ayres, M.P., Flannigan, M.D., Hanson, P.J., Irland, L.C., Lugo, A.E., Peterson, C.J., Simberloff, D., Swanson, F.J., Stocks, B.J., Wotton, B.M., 2001. Climate change and forest disturbances. Bioscience 51, 723. 
 
-
-## Hurricane disturbance pattern
+## Wind disturbance disturbance pattern
 - Chambers, J. Q., J. I. Fisher, H. Zeng, E. L. Chapman, D. B. Baker, and G. C. Hurtt. 2007. [Hurricane Katrina’s carbon footprint](../library/Chambers%20et%20al.%20-%202007%20-%20Hurricane%20Katrina's%20carbon%20footprint.pdf). Science 318:2.McNab, W. H., C. H. Greenberg, and E. C. Berg. 2004. Landscape distribution and characteristics of large hurricane-related canopy gaps in a southern Appalachian watershed. Forest Ecology and Management 196:435–447.
 - McNab, W. H., C. H. Greenberg, and E. C. Berg. 2004. [Landscape distribution and characteristics of large hurricane-related canopy gaps in a southern Appalachian watershed](../library/McNab%2C%20Greenberg%2C%20Berg%20-%202004%20-%20Landscape%20distribution%20and%20characteristics%20of%20large%20hurricane-related%20canopy%20gaps%20in%20a%20southern%20Appalach.pdf). Forest Ecology and Management 196:435–447.
 - Myers, R. K., and D. H. Van Lear. 1998. [Hurricane-fire interactions in coastal forests of the south: A review and hypothesis](../library/Myers%2C%20Van%20Lear%20-%201998%20-%20Hurricane%E2%80%93fire%20interactions%20in%20coastal%20forests%20of%20the%20south%20A%20review%20and%20hypothesis.pdf). Forest Ecology and Management 103:265–276.
 - Wang, F., and Y. J. Xu. 2009. [Hurricane Katrina-induced forest damage in relation to ecological factors at landscape scale](../library/Wang%2C%20Xu%20-%202009%20-%20Hurricane%20Katrina-induced%20forest%20damage%20in%20relation%20to%20ecological%20factors%20at%20landscape%20scale.pdf). Environmental Monitoring and Assessment 156:491–507.
 - Dahal, D., S. Liu, and J. Oeding. 2014. [The carbon cycle and hurricanes in the United States between 1900 and 2011](../library/Dahal%2C%20Liu%2C%20Oeding%20-%202014%20-%20The%20carbon%20cycle%20and%20hurricanes%20in%20the%20United%20States%20between%201900%20and%202011.pdf). Scientific Reports 4:5197.
 - Rutledge, B. T., J. B. Cannon, R. K. McIntyre, A. M. Holland, and S. B. Jack. 2021. [Tree, stand, and landscape factors contributing to hurricane damage in a coastal plain forest: Post-hurricane assessment in a longleaf pine landscape](../library/Rutledge%20et%20al.%20-%202021%20-%20Tree%2C%20stand%2C%20and%20landscape%20factors%20contributing%20to%20hurricane%20damage%20in%20a%20coastal%20plain%20forest%20Post-hurricane%20as.pdf). Forest Ecology and Management 481:118724.
+- Zenoble	M.D., Peterson, C.J., 2017. Remotely visible width and discontinuity of 50 tornado damage paths through forested landscapes. Electron. J. Sev. Storms Meteorol. 12, 1–21.
 - Cannon, J. B., J. Hepinstall-Cymerman, C. M. Godfrey, and C. J. Peterson. 2016. [Landscape-scale characteristics of forest tornado damage in mountainous terrain](../library/Cannon%20et%20al.%20-%202016%20-%20Landscape-scale%20characteristics%20of%20forest%20tornado%20damage%20in%20mountainous%20terrain(2).pdf). Landscape Ecology 31:2097–2114.
 - St. Peter, J., C. Anderson, J. Drake, and P. Medley. 2020. [Spatially Quantifying Forest Loss at Landscape-scale Following a Major Storm Event](../library/St.%20Peter%20et%20al.%20-%202020%20-%20Spatially%20Quantifying%20Forest%20Loss%20at%20Landscape-scale%20Following%20a%20Major%20Storm%20Event.pdf). Remote Sensing 12:1138.
 - Koukoulas, S., and G. A. Blackburn. 2004. [Quantifying the spatial properties of forest canopy gaps using LiDAR imagery and GIS](../library/Quantifying%20the%20spatial%20properties%20of%20forest%20canopy%20gaps%20using%20LiDAR%20imagery%20and%20GIS.pdf). International Journal of Remote Sensing 25:3049–3072.
 - Falkowski, M. J., J. S. Evans, S. Martinuzzi, P. E. Gessler, and A. T. Hudak. 2009. [Characterizing forest succession with lidar data: An evaluation for the Inland Northwest, USA](../library/Falkowski%20et%20al.%20-%202009%20-%20Characterizing%20forest%20succession%20with%20lidar%20data%20An%20evaluation%20for%20the%20Inland%20Northwest%2C%20USA.pdf). Remote Sensing of Environment 113:946–956.
 - Vepakomma, U., B. St-Onge, and D. Kneeshaw. 2008. [Spatially explicit characterization of boreal forest gap dynamics using multi-temporal lidar data](../library/Vepakomma%2C%20St-Onge%2C%20Kneeshaw%20-%202008%20-%20Spatially%20explicit%20characterization%20of%20boreal%20forest%20gap%20dynamics%20using%20multi-temporal%20lidar%20da(2).pdf). Remote Sensing of Environment 112:2326–2340.
 - Kane, V. R., B. N. Bartl-Geller, M. P. North, J. T. Kane, J. M. Lydersen, S. M. A. Jeronimo, B. M. Collins, and L. Monika Moskal. 2019. [First-entry wildfires can create opening and tree clump patterns characteristic of resilient forests](../library/Kane%20et%20al.%20-%202019%20-%20First-entry%20wildfires%20can%20create%20opening%20and%20tree%20clump%20patterns%20characteristic%20of%20resilient%20forests.pdf). Forest Ecology and Management 454:117659.
+-	Foster, D.R., Knight, D.H., Franklin, J.F., 1998. Landscape patterns and legacies resulting from large, infrequent forest disturbances. Ecosystems 1, 497–510. https://doi.org/10.1007/s100219900046
+-	Lindemann, J., Baker, W., 2001. Attributes of blowdown patches from a severe wind event in the Southern Rocky Mountains, USA. Landsc. Ecol. 16, 313–325.
+-	Foster, D., Boose, E., 1992. Patterns of forest damage resulting from catastrophic wind in central New England, USA. J. Ecol. 80, 79–98.
+-	Turner (2001), "Quantifying landscape pattern" Chapter 3 In: Landscape Ecology in Theory and Practice, Turner, Gardner, O'Neill. Springer, 
+-	Lidar Basics: https://www.neonscience.org/lidar-basics
+-	Vepakomma, U., St-Onge, B., Kneeshaw, D., 2008. Spatially explicit characterization of boreal forest gap dynamics using multi-temporal lidar data. Remote Sens. Environ. 112, 2326–2340. https://doi.org/10.1016/j.rse.2007.10.001
+-	Koukoulas, S., Blackburn, G.A., 2004. Quantifying the spatial properties of forest canopy gaps using LiDAR imagery and GIS. Int. J. Remote Sens. 25, 3049–3072. https://doi.org/10.1080/01431160310001657786
+
 
 ## Disturbance interactions 
 
@@ -99,3 +106,12 @@ Individual-based frameworks for ecological processes
 - Jonard, M., Andre, F., & Ponette, Q. (2006). Modeling leaf dispersal in mixed hardwood forests using a ballistic approach. Ecology, 87(9), 2306–2318. https://doi.org/10.1890/0012-9658(2006)87[2306:MLDIMH]2.0.CO;2
 - Sanchez Meador, A. J., Moore, M. M., Bakker, J. D., Parysow, P. F., Sánchez Meador, A. J., Moore, M. M., … Parysow, P. F. (2009). 108 years of change in spatial pattern following selective harvest of a Pinus ponderosa stand in northern Arizona. Journal of Vegetation Science, 20(1), 79–90. https://doi.org/10.1111/j.1654-1103.2009.05464.x  
 
+## Tree crown architecture
+-	Liu, J. P., Burkhart, H. E., & Amateis, R. L. (1995). Projecting crown measures for loblolly pine trees using a generalized thinning response function. Forest Science, 41(1), 43–53. https://doi.org/10.1093/forestscience/41.1.43
+-	Sprinz, P. T., & Burkhart, H. E. (1987). Relationships between tree crown, stem, and stand characteristics in unthinned loblolly pine plantations. Canadian Journal of Forest Research, 17(6), 534–538. https://doi.org/10.1139/x87-089
+-	Zeide, B. (1998). Fractal analysis of foliage distribution in loblolly pine crowns. Canadian Journal of Forest Research, 28(1), 106–114. https://doi.org/10.1139/x97-202
+-	Roberts, S. D., Dean, T. J., Evans, D. L., McCombs, J. W., Harrington, R. L., & Glass, P. A. (2005). Estimating individual tree leaf area in loblolly pine plantations using LiDAR-derived measurements of height and crown dimensions. Forest Ecology and Management, 213(1–3), 54–70. https://doi.org/10.1016/j.foreco.2005.03.025
+-	Ferraz, A., Saatchi, S., Mallet, C., & Meyer, V. (2016). Lidar detection of individual tree size in tropical forests. Remote Sensing of Environment, 183, 318–333. https://doi.org/10.1016/j.rse.2016.05.028
+-	Moorthy, I., Miller, J. R., Hu, B., Chen, J., & Li, Q. (2008). Retrieving crown leaf area index from an individual tree using ground-based lidar data. Canadian Journal of Remote Sensing, 34(3), 320–332. https://doi.org/10.5589/m08-027
+-	Peltola, H. M. (2006). Mechanical stability of trees under static loads. American Journal of Botany, 93(10), 1501–1511. https://doi.org/10.3732/ajb.93.10.1501
+-	James, K. R., Haritos, N., & Ades, P. K. (2006). Mechanical stability of trees under dynamic loads. American Journal of Botany, 93(10), 1522–1530. https://doi.org/10.3732/ajb.93.10.1522
