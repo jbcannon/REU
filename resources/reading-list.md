@@ -2,6 +2,24 @@
 
 The articles below are groupd to guide you through multiple topics related to forest landscape ecology. The articles are designed to provide some general background and context, as well as technical detail to aid your in your study design. Articles may be read and summarized in any order. Links to most articles are provided. If a reading is not available, please find it using [Google Scholar](scholar.google.com) and add it to the library.
 
+## General wind disturbance
+
+- Ulanova, N.G., 2000. The effects of windthrow on forests at different spatial scales: A review. For. Ecol. Manage. 135, 155–167. https://doi.org/10.1016/S0378-1127(00)00307-8
+- Everham, E.M., Brokaw, N.V.L., 1996. Forest damage and recovery from catastrophic wind. Bot. Rev. 62, 113–185. https://doi.org/10.1007/BF02857920
+- Beatty, S. W. 1984. Influence of microtopography and canopy species on spatial patterns of forest understory plants. Ecology 65:1406–1419.
+- Cannon, J. B., C. J. Peterson, J. J. O’Brien, and J. S. Brewer. 2017. A review and classification of interactions between forest disturbance from wind and fire. Forest Ecology and Management 406:381–390.
+- Peterson, C. J., J. B. Cannon, and C. M. Godfrey. 2016. First Steps Toward Defining the Wind Disturbance Regime in Central Hardwoods Forests. Pages 89–122 in C. H. Greenberg and B. S. Collins, editors. Natural Disturbances and Historic Range of Variation: Type, Frequency, Severity, and Post-disturbance Structure in Central Hardwood Forests, USA. Springer.
+- Gilliam, F.S., Platt, W.J., Peet, R.K., 2006. Natural disturbances and the physiognomy of pine savannas: A phenomenological model. Appl. Veg. Sci. 9, 83–96. https://doi.org/10.1658/1402-2001(2006)9[83:NDATPO]2.0.CO;2
+- O’Brien, J.J., Hiers, J.K., Callaham, Mac A., J., Mitchell, R.J., Jack, S.B., 2008. Interactions among overstory structure, seedling life-history traits, and fire in frequently burned neotropical pine forests. Ambio 37, 542–547. https://doi.org/10.1579/0044-7447-37.7.542
+- Cooper–Ellis, S., Foster, D.R., Carlton, G., Lezberg, A., 1999. Forest response to catastrophic wind: Results from an experimental hurricane. Ecology 80, 2683–2696. https://doi.org/10.1890/0012-9658(1999)080[2683:FRTCWR]2.0.CO;2
+- Rutledge, B. T., J. B. Cannon, R. K. McIntyre, A. M. Holland, and S. B. Jack. 2021. Tree, stand, and landscape factors contributing to hurricane damage in a coastal plain forest: Post-hurricane assessment in a longleaf pine landscape. Forest Ecology and Management 481:118724.
+- Peterson, C.J., 2007. Consistent influence of tree diameter and species on damage in nine eastern North America tornado blowdowns. For. Ecol. Manage. 250, 96–108. https://doi.org/10.1016/j.foreco.2007.03.013
+- Peterson, C.J., J.B. Cannon, C.M. Godfrey, 2016. First steps toward defining the wind disturbance regime in Central Hardwoods forests. In Greenberg and Collins, Natural Disturbacnes and Historic Range of Variation. Springer Link https://link.springer.com/chapter/10.1007/978-3-319-21527-3_5
+- Chambers, J.Q., Fisher, J.I., Zeng, H., Chapman, E.L., Baker, D.B., Hurtt, G.C., 2007. Hurricane Katrina’s carbon footprint. Science (80-. ). 318, 2. https://doi.org/10.1126/science.1148913
+- Canham, C.D., Papaik, M.J., Latty, E.F., 2001. Interspecific variation in susceptibility to windthrow as a function of tree size and storm severity for northern temperate tree species. Can. J. For. Res. 31, 1–10. https://doi.org/10.1139/x00-124
+- Dale, V.H., Joyce, L.A., McNulty, S., Neilson, R.P., Ayres, M.P., Flannigan, M.D., Hanson, P.J., Irland, L.C., Lugo, A.E., Peterson, C.J., Simberloff, D., Swanson, F.J., Stocks, B.J., Wotton, B.M., 2001. Climate change and forest disturbances. Bioscience 51, 723. 
+
+
 ## Hurricane disturbance pattern
 - Chambers, J. Q., J. I. Fisher, H. Zeng, E. L. Chapman, D. B. Baker, and G. C. Hurtt. 2007. [Hurricane Katrina’s carbon footprint](../library/Chambers%20et%20al.%20-%202007%20-%20Hurricane%20Katrina's%20carbon%20footprint.pdf). Science 318:2.McNab, W. H., C. H. Greenberg, and E. C. Berg. 2004. Landscape distribution and characteristics of large hurricane-related canopy gaps in a southern Appalachian watershed. Forest Ecology and Management 196:435–447.
 - McNab, W. H., C. H. Greenberg, and E. C. Berg. 2004. [Landscape distribution and characteristics of large hurricane-related canopy gaps in a southern Appalachian watershed](../library/McNab%2C%20Greenberg%2C%20Berg%20-%202004%20-%20Landscape%20distribution%20and%20characteristics%20of%20large%20hurricane-related%20canopy%20gaps%20in%20a%20southern%20Appalach.pdf). Forest Ecology and Management 196:435–447.
@@ -36,4 +54,18 @@ The articles below are groupd to guide you through multiple topics related to fo
 - Fisher D.K., and Gould, P.J., 2012. Open-source hardware is a low-cost alternative for scientific instrumentation and research. Modern Instrumentation 1: 8-20.
 - Kizito, F., et al. 2008. Frequency, electrical conductivity and temperature analysis of a low-cost capacitance soil moisture sensor. Journal of Hydrology 352: 367-378.
 - Ogbu, K.N., et al. 2016. Development and testing of a capacitive digital soil moisture metre. Nigerian Journal of Technology 35: 686-693.
+
+## Individual-based likelihood modeling
+
+- Uriarte, M., Canham, C. D., Thompson, J. & Zimmerman, J. K. A neighborhood analysis of tree growth and survival in a hurricane-driven tropical forest. Ecol. Monogr. 74, 591–614 (2004).
+- Canham, C. D. et al. Neighborhood analyses of canopy tree competition along environmental gradients in New England forests. Ecol. Appl. 16, 540–554 (2006).
+- Pacala, S. W., Canham, C. D., Silander Jnr, J. A. & Kobe, R. K. Sapling growth as a function of resources in a north temperate forest. Can. J. For. Res. 24, 2172–2183 (1994).
+- Canham, C. D. & Uriarte, M. Analysis of neighborhood dynamics of forest ecosystems using likelihood methods and modeling. in Ecological Applications vol. 16 62–73 (2006).
+- Gómez-Aparicio, L., Canham, C. D. & Martin, P. H. Neighbourhood models of the effects of the invasive Acer platanoides on tree seedling dynamics: Linking impacts on communities and ecosystems. J. Ecol. 96, 78–90 (2008).
+- Boyden, S., Montgomery, R., Reich, P. B. & Palik, B. Seeing the forest for the heterogeneous trees: Stand-scale resource distributions emerge from tree-scale structure. Ecol. Appl. 22, 1578–1588 (2012).
+- Boyden, S. & Binkley, D. The effects of soil fertility and scale on competition in ponderosa pine. Eur. J. For. Res. 135, 1–8 (2015).
+- Lopes, S. de F. Competition analysis using neighborhood models: Implications for plant community assembly rules. Ethnobiology and Conservation vol. 6 11 (2017).
+- Greene, D. F., Canham, C. D., Coates, K. D. & Lepage, P. T. An evaluation of alternative dispersal functions for trees. J. Ecol. 92, 758–766 (2004).
+- MacFarlane, D. W. & Kane, B. Neighbour effects on tree architecture: functional trade-offs balancing crown competitiveness with wind resistance. Funct. Ecol. 31, 1624–1636 (2017).
+ 
 
