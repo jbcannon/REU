@@ -2,6 +2,16 @@
 
 The articles below are groupd to guide you through multiple topics related to forest landscape ecology. The articles are designed to provide some general background and context, as well as technical detail to aid your in your study design. Articles may be read and summarized in any order. Links to most articles are provided. If a reading is not available, please find it using [Google Scholar](scholar.google.com) and add it to the library.
 
+## Longleaf pine ecology and management
+-	Mitchell, R., Hiers, J., O’Brien, J., & Starr, G. (2009). Ecological forestry in the southeast: understanding the ecology of fuels. Journal of Forestry, 107, 391–397. Retrieved from http://www.ingentaconnect.com/content/saf/jof/2009/00000107/00000008/art00006
+-	Bigelow, S. W., & Canham, C. D. (2015). Litterfall as a niche construction process in a northern hardwood forest. Ecosphere, 6(7), art117. https://doi.org/10.1890/es14-00442.1
+-	Kreye, J. K., Varner, J. M., Hamby, G. W., & Kane, J. M. (2018). Mesophytic litter dampens flammability in fire‐excluded pyrophytic oak–hickory woodlands. Ecosphere, 9(1). https://doi.org/10.1002/ecs2.2078
+-	Bigelow, S. W., & Whelan, A. W. (2019). Longleaf pine proximity effects on air temperatures and hardwood top-kill from prescribed fire. Fire Ecology, 15(1), 1–14. https://doi.org/10.1186/s42408-019-0039-7
+-	Varner, J. M., Kane, J. M., Kreye, J. K., & Engber, E. (n.d.). The Flammability of Forest and Woodland Litter: a Synthesis. https://doi.org/10.1007/s40725-015-0012-x
+- Platt, W., G. W. Evans, and S. L. Rathbun. 1988. The population dynamics of a long-lived conifer (Pinus palustris). American Naturalist 131:491–525.
+- Pecot, S. D., R. J. Mitchell, B. J. Palik, E. B. Moser, and J. K. Hiers. 2007. Competitive responses of seedlings and understory plants in longleaf pine woodlands: Separating canopy influences above and below ground. Canadian Journal of Forest Research 37:634–648.
+- Franklin, J. F., R. J. Mitchell, and B. J. Palik. 2007. Natural Disturbance and Stand Development Principles for Ecological Forestry, Gen. Tech. Rep. NRS-19:44.
+
 ## General wind disturbance
 
 - Ulanova, N.G., 2000. The effects of windthrow on forests at different spatial scales: A review. For. Ecol. Manage. 135, 155–167. https://doi.org/10.1016/S0378-1127(00)00307-8
@@ -55,6 +65,15 @@ The articles below are groupd to guide you through multiple topics related to fo
 - Kizito, F., et al. 2008. Frequency, electrical conductivity and temperature analysis of a low-cost capacitance soil moisture sensor. Journal of Hydrology 352: 367-378.
 - Ogbu, K.N., et al. 2016. Development and testing of a capacitive digital soil moisture metre. Nigerian Journal of Technology 35: 686-693.
 
+Individual-based frameworks for ecological processes
+-	Janzen, D. H. Herbivores and the Number of Tree Species in Tropical Forests. Am. Nat. 104, 501–528 (1970).
+-	Connell, J.H. On the role of natural enemies in preventing competitive exclusion in some marine animals and in rain forest trees. Proceedings of the Advanced Study Institute on 'Dynamics of Numbers in Populations'. (Oosterbeek, Netherlands) 298-312
+-	Packer, A. & Clay, K. Soil pathogens and Prunus serotina seedling and sapling growth near conspecific trees. Ecology 84, 108–119 (2003).
+-	Packer, A. & Clay, K. Soil pathogens and spatial patterns of seedling mortality in a temperate tree. Nature 404, 278–281 (2000).
+-	Petermann, J. S., Fergus, A. J. F., Turnbull, L. A. & Schmid, B. Janzen-Connell effects are widespread and strong enough to maintain diversity in grasslands. Ecology 89, 2399–2406 (2008).
+- Packer, A. & Clay, K. Soil pathogens and spatial patterns of seedling mortality in a temperate tree. Nature 404, 278–281 (2000).
+
+
 ## Individual-based likelihood modeling
 
 - Uriarte, M., Canham, C. D., Thompson, J. & Zimmerman, J. K. A neighborhood analysis of tree growth and survival in a hurricane-driven tropical forest. Ecol. Monogr. 74, 591–614 (2004).
@@ -68,4 +87,15 @@ The articles below are groupd to guide you through multiple topics related to fo
 - Greene, D. F., Canham, C. D., Coates, K. D. & Lepage, P. T. An evaluation of alternative dispersal functions for trees. J. Ecol. 92, 758–766 (2004).
 - MacFarlane, D. W. & Kane, B. Neighbour effects on tree architecture: functional trade-offs balancing crown competitiveness with wind resistance. Funct. Ecol. 31, 1624–1636 (2017).
  
+## Kernels and spatial modeling
+- Staelens, J., Nachtergale, L., Luyssaert, S. & Lust, N. A model of wind-influenced leaf litterfall in a mixed hardwood forest. Can. J. For. Res. 33, 201–209 (2003).
+- Nickmans, H., Jonard, M., Verheyen, K. & Ponette, Q. Modelling leaf dispersal and nutrient return in tree species mixtures. For. Ecol. Manage. 436, 68–78 (2019).
+- Ferrari, J. B. & Sugita, S. A spatially explicit model of leaf litter fall in hemlock-hardwood forests. Can. J. For. Res. 26, 1905–1913 (1996).
+- Clark, J. S., Silman, M., Kern, R., Macklin, E. & Hillerislambers, J. Seed dispersal near and far: Patterns across temperate and tropical forests. Ecology 80, 1475–1494 (1999).
+- Kot, M., Lewis, M. A. & Van Den Driessche, P. Dispersal data and the spread of invading organisms. Ecology 77, 2027–2042 (1996).
+- Bigelow, S. W., and A. W. Whelan. 2019. Longleaf pine proximity effects on air temperatures and hardwood top-kill from prescribed fire. Fire Ecology 15:1–14.
+- O’Brien, J. J., Hiers, J. K., Callaham, Mac A., J., Mitchell, R. J., & Jack, S. B. (2008). Interactions among overstory structure, seedling life-history traits, and fire in frequently burned neotropical pine forests. Ambio, 37(7–8), 542–547. https://doi.org/10.1579/0044-7447-37.7.542 
+- Hirabuki  1991. Heterogeneous dispersal of tree litterfall corresponding with patchy canopy structure in a temperate mixed forest. Plant ecology. , 1991, Vol.94(1), p.69 [[Can't currently get access to this one ]]
+- Jonard, M., Andre, F., & Ponette, Q. (2006). Modeling leaf dispersal in mixed hardwood forests using a ballistic approach. Ecology, 87(9), 2306–2318. https://doi.org/10.1890/0012-9658(2006)87[2306:MLDIMH]2.0.CO;2
+- Sanchez Meador, A. J., Moore, M. M., Bakker, J. D., Parysow, P. F., Sánchez Meador, A. J., Moore, M. M., … Parysow, P. F. (2009). 108 years of change in spatial pattern following selective harvest of a Pinus ponderosa stand in northern Arizona. Journal of Vegetation Science, 20(1), 79–90. https://doi.org/10.1111/j.1654-1103.2009.05464.x  
 
