@@ -1,4 +1,4 @@
-# Independent Research in Restoration Ecology
+# Independent Research in Forest and Restoration Ecology
 
 ## Instructor/Developer
 
