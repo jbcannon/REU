@@ -1,6 +1,6 @@
 # Reading list by topics
 
-The articles below are groupd to guide you through multiple topics related to forest landscape ecology. The articles are designed to provide some general background and context, as well as technical detail to aid your in your study design. Articles may be read and summarized in any order. Links to most articles are provided. If a reading is not available, please find it using [Google Scholar](scholar.google.com) and add it to the library.
+The articles below are groupd to guide you through multiple topics related to forest landscape ecology. The articles are designed to provide some general background and context, as well as technical detail to aid your in your study design. Articles may be read and summarized in any order. Links to most articles are provided. If a reading is not available, please find it using [Google Scholar](https://scholar.google.com) and add it to the library.
 
 ## Longleaf pine ecology and management
 -	Mitchell, R., Hiers, J., O’Brien, J., & Starr, G. (2009). Ecological forestry in the southeast: understanding the ecology of fuels. Journal of Forestry, 107, 391–397. Retrieved from http://www.ingentaconnect.com/content/saf/jof/2009/00000107/00000008/art00006
