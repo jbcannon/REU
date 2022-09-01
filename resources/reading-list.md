@@ -10,7 +10,8 @@ The articles below are groupd to guide you through multiple topics related to fo
 -	Varner, J. M., Kane, J. M., Kreye, J. K., & Engber, E. (n.d.). The Flammability of Forest and Woodland Litter: a Synthesis. https://doi.org/10.1007/s40725-015-0012-x
 - Platt, W., G. W. Evans, and S. L. Rathbun. 1988. The population dynamics of a long-lived conifer (Pinus palustris). American Naturalist 131:491–525.
 - Pecot, S. D., R. J. Mitchell, B. J. Palik, E. B. Moser, and J. K. Hiers. 2007. Competitive responses of seedlings and understory plants in longleaf pine woodlands: Separating canopy influences above and below ground. Canadian Journal of Forest Research 37:634–648.
-- Franklin, J. F., R. J. Mitchell, and B. J. Palik. 2007. Natural Disturbance and Stand Development Principles for Ecological Forestry, Gen. Tech. Rep. NRS-19:44.
+- Provencher, L., A.R. Litt, D.R. Gordon, H.L. Rodgers, B.J. Herring, K.E.M. Galley, J.P. McAdoo, S.J. McAdoo, N.M. Gobris, and J.L. Hardesty (2001). Restoration, fire, and hurricanes inlongleaf pine snadhills. Ecological Restoration, 19(2), 92-98. http://www.montana.edu/litt/documents/Provencher%20et%20al%202001%20Ecol%20Rest.pdf
+- Cox, A.C., D.R. Grodon, J.L. Slapcinsky, and G.S. Seamon. 2004. Understory restoration in longleaf pine sandhills. Natural Areas Journal 24(1). 4-14. http://www.naturalareas.org/docs/v24_1_04_pp004_014.pdf
 
 ## General wind disturbance
 - Ulanova, N.G., 2000. The effects of windthrow on forests at different spatial scales: A review. For. Ecol. Manage. 135, 155–167. https://doi.org/10.1016/S0378-1127(00)00307-8
