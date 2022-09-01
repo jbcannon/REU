@@ -5,6 +5,7 @@ The articles below are groupd to guide you through multiple topics related to fo
 ## Longleaf pine ecology and management
 -	Mitchell, R., Hiers, J., O’Brien, J., & Starr, G. (2009). Ecological forestry in the southeast: understanding the ecology of fuels. Journal of Forestry, 107, 391–397. Retrieved from http://www.ingentaconnect.com/content/saf/jof/2009/00000107/00000008/art00006
 -	Bigelow, S. W., & Canham, C. D. (2015). Litterfall as a niche construction process in a northern hardwood forest. Ecosphere, 6(7), art117. https://doi.org/10.1890/es14-00442.1
+-	Loudermilk, E.L., J.K. Hiers, S Pokswinski, J.J. O'Brien, A Barnett, and R.J. Mitchell. (2016). The apth back: oaks (*Quercus* spp.) facilitate longleaf pine (*Pinus palustris*) establishment in xeric sites. Ecosphere 7(6): e01361. https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.1361
 -	Kreye, J. K., Varner, J. M., Hamby, G. W., & Kane, J. M. (2018). Mesophytic litter dampens flammability in fire‐excluded pyrophytic oak–hickory woodlands. Ecosphere, 9(1). https://doi.org/10.1002/ecs2.2078
 -	Bigelow, S. W., & Whelan, A. W. (2019). Longleaf pine proximity effects on air temperatures and hardwood top-kill from prescribed fire. Fire Ecology, 15(1), 1–14. https://doi.org/10.1186/s42408-019-0039-7
 -	Varner, J. M., Kane, J. M., Kreye, J. K., & Engber, E. (n.d.). The Flammability of Forest and Woodland Litter: a Synthesis. https://doi.org/10.1007/s40725-015-0012-x
